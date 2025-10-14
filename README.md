@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Lauren Marino
 
-<!--
-**Lauren-Marino/Lauren-Marino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Strategic Technical Project Manager expanding my hands-on skills in modern data and infrastructure technologies — including **Snowflake, Airflow, Docker, Kubernetes, and Databricks**.
 
-Here are some ideas to get you started:
+## 🧱 Current Learning Projects
+More details coming soon 
+<!-- - 🚀 [Snowflake Data Warehouse Demo] 
+- 🪄 [Airflow ETL Pipeline]
+- 🐳 [Dockerized Web App]
+- ☁️ [Kubernetes Deployment Project]
+- 🧮 [Databricks ETL Pipeline] -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certifications In Progress
+More details coming soon
+<!-- - SnowPro Core (Snowflake)
+- Docker Certified Associate
+- Databricks Data Engineer Associate -->
+
+## 💬 Connect
+- [LinkedIn](https://www.linkedin.com/in/lauren-marino-150/)
