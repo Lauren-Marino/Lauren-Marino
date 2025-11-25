@@ -3,7 +3,7 @@
 I’m a Strategic Technical Project Manager expanding my hands-on skills in modern data and infrastructure technologies — including **Snowflake, Airflow, Docker, Kubernetes, and Databricks**.
 
 ## 🧱 Current Learning Projects
- - 🚀 Snowflake Data Warehouse Demo] 
+ - 🚀 Snowflake Data Warehouse Demo 
 <!-- - 🪄 [Airflow ETL Pipeline]
 - 🐳 [Dockerized Web App]
 - ☁️ [Kubernetes Deployment Project]
